@@ -1,4 +1,4 @@
-# Exercise-02b-Bullets-And-Asteroids
+# Exercise-02b-Bullets-And-Asteroids Botond Kun
 
 Exercise for MSCH-C220
 
