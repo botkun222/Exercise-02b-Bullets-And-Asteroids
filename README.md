@@ -1,4 +1,4 @@
-# Exercise-02b-Bullets-And-Asteroids Botond Kun
+# Exercise-02b-Bullets-And-Asteroids 
 
 Exercise for MSCH-C220
 
@@ -17,4 +17,4 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Botond Kun
